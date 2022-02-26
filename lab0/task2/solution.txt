@@ -1,0 +1,4 @@
+use strings -h to find all the commands
+use strings -a task2 to find all the strings
+
+output:Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way. - Michael Scott, The Office

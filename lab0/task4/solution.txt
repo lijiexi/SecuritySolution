@@ -1,0 +1,21 @@
+output: Just remember, every time you look up at the moon, I, too, will be looking at a moon. Not the same moon, obviously, That's impossible. - Andy, Parks & Rec
+
+int check(char * input){
+	input += 10;
+	input -= 7;
+	input += 96;
+	input = input << 1;
+	input += 27;
+	input -= 36;
+	input += 120;
+	input -= 77;
+	input -= 7;
+	input += 66;
+	input -= 111;
+
+	if(120 == input) {
+		return 1;
+	} else {
+		return 0;
+	}
+}

@@ -1,0 +1,5 @@
+the number is 0xf398
+use the command:
+objdump -d task3
+
+output:Fine. But in protest, I'm walking over there extremely slowly! - Jake Peralta, Brooklyn Nine-Nine
